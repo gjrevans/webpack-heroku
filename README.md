@@ -14,5 +14,6 @@ Running to production mode:
 npm run build
 npm start
 ```
+To undo production mode, delete your bundle fines inside of the public folder.
 
 Before you deploy, make sure you generated your bundle through `npm run build`.
